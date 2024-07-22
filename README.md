@@ -2,4 +2,4 @@
 
 ## Description
 
-Default tutorial for kedro setup and project. Manage pipelines
+Default tutorial for kedro setup and project manage pipelines
